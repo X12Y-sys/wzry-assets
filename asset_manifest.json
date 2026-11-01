@@ -1,0 +1,1261 @@
+{
+  "source_card": "王者荣耀_世界_6.6.51_移速先攻韧性硬核世界.json",
+  "source_version": "6.6.51",
+  "note": "图片从 UI 模板中的 DATA.avatars、ICONS 及性别装饰 SVG 提取；尚未改写角色卡中的图片引用。",
+  "avatars": {
+    "李白": {
+      "path": "avatars/avatar_001.webp",
+      "mime": "image/webp",
+      "bytes": 3194
+    },
+    "狄仁杰": {
+      "path": "avatars/avatar_002.webp",
+      "mime": "image/webp",
+      "bytes": 2774
+    },
+    "司空震": {
+      "path": "avatars/avatar_003.webp",
+      "mime": "image/webp",
+      "bytes": 2948
+    },
+    "李元芳": {
+      "path": "avatars/avatar_004.webp",
+      "mime": "image/webp",
+      "bytes": 3426
+    },
+    "程咬金": {
+      "path": "avatars/avatar_005.webp",
+      "mime": "image/webp",
+      "bytes": 3074
+    },
+    "钟馗": {
+      "path": "avatars/avatar_006.webp",
+      "mime": "image/webp",
+      "bytes": 3198
+    },
+    "武则天": {
+      "path": "avatars/avatar_007.webp",
+      "mime": "image/webp",
+      "bytes": 3646
+    },
+    "上官婉儿": {
+      "path": "avatars/avatar_008.webp",
+      "mime": "image/webp",
+      "bytes": 2576
+    },
+    "云缨": {
+      "path": "avatars/avatar_009.webp",
+      "mime": "image/webp",
+      "bytes": 2534
+    },
+    "赵怀真": {
+      "path": "avatars/avatar_010.webp",
+      "mime": "image/webp",
+      "bytes": 3580
+    },
+    "达摩": {
+      "path": "avatars/avatar_011.webp",
+      "mime": "image/webp",
+      "bytes": 2552
+    },
+    "金蝉": {
+      "path": "avatars/avatar_012.webp",
+      "mime": "image/webp",
+      "bytes": 1978
+    },
+    "空空儿": {
+      "path": "avatars/avatar_013.webp",
+      "mime": "image/webp",
+      "bytes": 1978
+    },
+    "王维": {
+      "path": "avatars/avatar_014.webp",
+      "mime": "image/webp",
+      "bytes": 2382
+    },
+    "明世隐": {
+      "path": "avatars/avatar_015.webp",
+      "mime": "image/webp",
+      "bytes": 3096
+    },
+    "弈星": {
+      "path": "avatars/avatar_016.webp",
+      "mime": "image/webp",
+      "bytes": 2872
+    },
+    "公孙离": {
+      "path": "avatars/avatar_017.webp",
+      "mime": "image/webp",
+      "bytes": 3120
+    },
+    "裴擒虎": {
+      "path": "avatars/avatar_018.webp",
+      "mime": "image/webp",
+      "bytes": 3162
+    },
+    "杨玉环": {
+      "path": "avatars/avatar_019.webp",
+      "mime": "image/webp",
+      "bytes": 3544
+    },
+    "花木兰": {
+      "path": "avatars/avatar_020.webp",
+      "mime": "image/webp",
+      "bytes": 2938
+    },
+    "铠": {
+      "path": "avatars/avatar_021.webp",
+      "mime": "image/webp",
+      "bytes": 3312
+    },
+    "百里守约": {
+      "path": "avatars/avatar_022.webp",
+      "mime": "image/webp",
+      "bytes": 3034
+    },
+    "百里玄策": {
+      "path": "avatars/avatar_023.webp",
+      "mime": "image/webp",
+      "bytes": 4406
+    },
+    "李信": {
+      "path": "avatars/avatar_024.webp",
+      "mime": "image/webp",
+      "bytes": 3356
+    },
+    "苏烈": {
+      "path": "avatars/avatar_025.webp",
+      "mime": "image/webp",
+      "bytes": 3910
+    },
+    "盾山": {
+      "path": "avatars/avatar_026.webp",
+      "mime": "image/webp",
+      "bytes": 3056
+    },
+    "沈梦溪": {
+      "path": "avatars/avatar_027.webp",
+      "mime": "image/webp",
+      "bytes": 4212
+    },
+    "伽罗": {
+      "path": "avatars/avatar_028.webp",
+      "mime": "image/webp",
+      "bytes": 2982
+    },
+    "老夫子": {
+      "path": "avatars/avatar_029.webp",
+      "mime": "image/webp",
+      "bytes": 3298
+    },
+    "墨子": {
+      "path": "avatars/avatar_030.webp",
+      "mime": "image/webp",
+      "bytes": 2828
+    },
+    "庄周": {
+      "path": "avatars/avatar_031.webp",
+      "mime": "image/webp",
+      "bytes": 3598
+    },
+    "钟无艳": {
+      "path": "avatars/avatar_032.webp",
+      "mime": "image/webp",
+      "bytes": 4138
+    },
+    "孙膑": {
+      "path": "avatars/avatar_033.webp",
+      "mime": "image/webp",
+      "bytes": 4500
+    },
+    "曜": {
+      "path": "avatars/avatar_034.webp",
+      "mime": "image/webp",
+      "bytes": 2728
+    },
+    "蒙犽": {
+      "path": "avatars/avatar_035.webp",
+      "mime": "image/webp",
+      "bytes": 3566
+    },
+    "鲁班大师": {
+      "path": "avatars/avatar_036.webp",
+      "mime": "image/webp",
+      "bytes": 3260
+    },
+    "西施": {
+      "path": "avatars/avatar_037.webp",
+      "mime": "image/webp",
+      "bytes": 2712
+    },
+    "廉颇": {
+      "path": "avatars/avatar_038.webp",
+      "mime": "image/webp",
+      "bytes": 3706
+    },
+    "姬小满": {
+      "path": "avatars/avatar_039.webp",
+      "mime": "image/webp",
+      "bytes": 2898
+    },
+    "元流之子(坦克)": {
+      "path": "avatars/avatar_040.webp",
+      "mime": "image/webp",
+      "bytes": 2624
+    },
+    "元流之子(法师)": {
+      "path": "avatars/avatar_041.webp",
+      "mime": "image/webp",
+      "bytes": 2674
+    },
+    "元流之子(刺客)": {
+      "path": "avatars/avatar_042.webp",
+      "mime": "image/webp",
+      "bytes": 2314
+    },
+    "元流之子(射手)": {
+      "path": "avatars/avatar_043.webp",
+      "mime": "image/webp",
+      "bytes": 2658
+    },
+    "元流之子(辅助)": {
+      "path": "avatars/avatar_044.webp",
+      "mime": "image/webp",
+      "bytes": 2504
+    },
+    "嬴政": {
+      "path": "avatars/avatar_045.webp",
+      "mime": "image/webp",
+      "bytes": 3454
+    },
+    "白起": {
+      "path": "avatars/avatar_046.webp",
+      "mime": "image/webp",
+      "bytes": 3312
+    },
+    "芈月": {
+      "path": "avatars/avatar_047.webp",
+      "mime": "image/webp",
+      "bytes": 3698
+    },
+    "镜": {
+      "path": "avatars/avatar_048.webp",
+      "mime": "image/webp",
+      "bytes": 2678
+    },
+    "蒙恬": {
+      "path": "avatars/avatar_049.webp",
+      "mime": "image/webp",
+      "bytes": 3504
+    },
+    "鲁班七号": {
+      "path": "avatars/avatar_050.webp",
+      "mime": "image/webp",
+      "bytes": 4098
+    },
+    "扁鹊": {
+      "path": "avatars/avatar_051.webp",
+      "mime": "image/webp",
+      "bytes": 2226
+    },
+    "高渐离": {
+      "path": "avatars/avatar_052.webp",
+      "mime": "image/webp",
+      "bytes": 4488
+    },
+    "阿轲": {
+      "path": "avatars/avatar_053.webp",
+      "mime": "image/webp",
+      "bytes": 3928
+    },
+    "曹操": {
+      "path": "avatars/avatar_054.webp",
+      "mime": "image/webp",
+      "bytes": 4022
+    },
+    "司马懿": {
+      "path": "avatars/avatar_055.webp",
+      "mime": "image/webp",
+      "bytes": 2604
+    },
+    "吕布": {
+      "path": "avatars/avatar_056.webp",
+      "mime": "image/webp",
+      "bytes": 3062
+    },
+    "貂蝉": {
+      "path": "avatars/avatar_057.webp",
+      "mime": "image/webp",
+      "bytes": 2732
+    },
+    "甄姬": {
+      "path": "avatars/avatar_058.webp",
+      "mime": "image/webp",
+      "bytes": 2726
+    },
+    "蔡文姬": {
+      "path": "avatars/avatar_059.webp",
+      "mime": "image/webp",
+      "bytes": 4302
+    },
+    "典韦": {
+      "path": "avatars/avatar_060.webp",
+      "mime": "image/webp",
+      "bytes": 3040
+    },
+    "夏侯惇": {
+      "path": "avatars/avatar_061.webp",
+      "mime": "image/webp",
+      "bytes": 2972
+    },
+    "刘备": {
+      "path": "avatars/avatar_062.webp",
+      "mime": "image/webp",
+      "bytes": 3608
+    },
+    "诸葛亮": {
+      "path": "avatars/avatar_063.webp",
+      "mime": "image/webp",
+      "bytes": 3484
+    },
+    "刘禅": {
+      "path": "avatars/avatar_064.webp",
+      "mime": "image/webp",
+      "bytes": 3210
+    },
+    "元歌": {
+      "path": "avatars/avatar_065.webp",
+      "mime": "image/webp",
+      "bytes": 2966
+    },
+    "黄忠": {
+      "path": "avatars/avatar_066.webp",
+      "mime": "image/webp",
+      "bytes": 3888
+    },
+    "关羽": {
+      "path": "avatars/avatar_067.webp",
+      "mime": "image/webp",
+      "bytes": 3710
+    },
+    "张飞": {
+      "path": "avatars/avatar_068.webp",
+      "mime": "image/webp",
+      "bytes": 4050
+    },
+    "赵云": {
+      "path": "avatars/avatar_069.webp",
+      "mime": "image/webp",
+      "bytes": 3422
+    },
+    "马超": {
+      "path": "avatars/avatar_070.webp",
+      "mime": "image/webp",
+      "bytes": 3548
+    },
+    "阿古朵": {
+      "path": "avatars/avatar_071.webp",
+      "mime": "image/webp",
+      "bytes": 3448
+    },
+    "孙权": {
+      "path": "avatars/avatar_072.webp",
+      "mime": "image/webp",
+      "bytes": 2730
+    },
+    "孙策": {
+      "path": "avatars/avatar_073.webp",
+      "mime": "image/webp",
+      "bytes": 2924
+    },
+    "大乔": {
+      "path": "avatars/avatar_074.webp",
+      "mime": "image/webp",
+      "bytes": 3724
+    },
+    "周瑜": {
+      "path": "avatars/avatar_075.webp",
+      "mime": "image/webp",
+      "bytes": 2540
+    },
+    "小乔": {
+      "path": "avatars/avatar_076.webp",
+      "mime": "image/webp",
+      "bytes": 3780
+    },
+    "孙尚香": {
+      "path": "avatars/avatar_077.webp",
+      "mime": "image/webp",
+      "bytes": 3316
+    },
+    "澜": {
+      "path": "avatars/avatar_078.webp",
+      "mime": "image/webp",
+      "bytes": 2826
+    },
+    "干将莫邪": {
+      "path": "avatars/avatar_079.webp",
+      "mime": "image/webp",
+      "bytes": 3240
+    },
+    "东皇太一": {
+      "path": "avatars/avatar_080.webp",
+      "mime": "image/webp",
+      "bytes": 3676
+    },
+    "鬼谷子": {
+      "path": "avatars/avatar_081.webp",
+      "mime": "image/webp",
+      "bytes": 3510
+    },
+    "云中君": {
+      "path": "avatars/avatar_082.webp",
+      "mime": "image/webp",
+      "bytes": 2644
+    },
+    "瑶": {
+      "path": "avatars/avatar_083.webp",
+      "mime": "image/webp",
+      "bytes": 3760
+    },
+    "大司命": {
+      "path": "avatars/avatar_084.webp",
+      "mime": "image/webp",
+      "bytes": 3778
+    },
+    "少司缘": {
+      "path": "avatars/avatar_085.webp",
+      "mime": "image/webp",
+      "bytes": 2934
+    },
+    "敖隐": {
+      "path": "avatars/avatar_086.webp",
+      "mime": "image/webp",
+      "bytes": 2708
+    },
+    "影": {
+      "path": "avatars/avatar_087.webp",
+      "mime": "image/webp",
+      "bytes": 2824
+    },
+    "项羽": {
+      "path": "avatars/avatar_088.webp",
+      "mime": "image/webp",
+      "bytes": 3812
+    },
+    "虞姬": {
+      "path": "avatars/avatar_089.webp",
+      "mime": "image/webp",
+      "bytes": 3330
+    },
+    "刘邦": {
+      "path": "avatars/avatar_090.webp",
+      "mime": "image/webp",
+      "bytes": 3264
+    },
+    "韩信": {
+      "path": "avatars/avatar_091.webp",
+      "mime": "image/webp",
+      "bytes": 2786
+    },
+    "张良": {
+      "path": "avatars/avatar_092.webp",
+      "mime": "image/webp",
+      "bytes": 3448
+    },
+    "后羿": {
+      "path": "avatars/avatar_093.webp",
+      "mime": "image/webp",
+      "bytes": 3004
+    },
+    "嫦娥": {
+      "path": "avatars/avatar_094.webp",
+      "mime": "image/webp",
+      "bytes": 2384
+    },
+    "孙悟空": {
+      "path": "avatars/avatar_095.webp",
+      "mime": "image/webp",
+      "bytes": 4724
+    },
+    "猪八戒": {
+      "path": "avatars/avatar_096.webp",
+      "mime": "image/webp",
+      "bytes": 3058
+    },
+    "牛魔": {
+      "path": "avatars/avatar_097.webp",
+      "mime": "image/webp",
+      "bytes": 2926
+    },
+    "妲己": {
+      "path": "avatars/avatar_098.webp",
+      "mime": "image/webp",
+      "bytes": 3960
+    },
+    "姜子牙": {
+      "path": "avatars/avatar_099.webp",
+      "mime": "image/webp",
+      "bytes": 3588
+    },
+    "杨戬": {
+      "path": "avatars/avatar_100.webp",
+      "mime": "image/webp",
+      "bytes": 4406
+    },
+    "哪吒": {
+      "path": "avatars/avatar_101.webp",
+      "mime": "image/webp",
+      "bytes": 3428
+    },
+    "盘古": {
+      "path": "avatars/avatar_102.webp",
+      "mime": "image/webp",
+      "bytes": 3170
+    },
+    "梦奇": {
+      "path": "avatars/avatar_103.webp",
+      "mime": "image/webp",
+      "bytes": 3310
+    },
+    "女娲": {
+      "path": "avatars/avatar_104.webp",
+      "mime": "image/webp",
+      "bytes": 3222
+    },
+    "太乙真人": {
+      "path": "avatars/avatar_105.webp",
+      "mime": "image/webp",
+      "bytes": 3696
+    },
+    "蚩奼": {
+      "path": "avatars/avatar_106.webp",
+      "mime": "image/webp",
+      "bytes": 2726
+    },
+    "暃": {
+      "path": "avatars/avatar_107.webp",
+      "mime": "image/webp",
+      "bytes": 2952
+    },
+    "桑启": {
+      "path": "avatars/avatar_108.webp",
+      "mime": "image/webp",
+      "bytes": 3422
+    },
+    "戈娅": {
+      "path": "avatars/avatar_109.webp",
+      "mime": "image/webp",
+      "bytes": 3376
+    },
+    "海月": {
+      "path": "avatars/avatar_110.webp",
+      "mime": "image/webp",
+      "bytes": 3016
+    },
+    "兰陵王": {
+      "path": "avatars/avatar_111.webp",
+      "mime": "image/webp",
+      "bytes": 3058
+    },
+    "苍": {
+      "path": "avatars/avatar_112.webp",
+      "mime": "image/webp",
+      "bytes": 2482
+    },
+    "王昭君": {
+      "path": "avatars/avatar_113.webp",
+      "mime": "image/webp",
+      "bytes": 3522
+    },
+    "安琪拉": {
+      "path": "avatars/avatar_114.webp",
+      "mime": "image/webp",
+      "bytes": 4286
+    },
+    "亚瑟": {
+      "path": "avatars/avatar_115.webp",
+      "mime": "image/webp",
+      "bytes": 3276
+    },
+    "雅典娜": {
+      "path": "avatars/avatar_116.webp",
+      "mime": "image/webp",
+      "bytes": 3902
+    },
+    "艾琳": {
+      "path": "avatars/avatar_117.webp",
+      "mime": "image/webp",
+      "bytes": 3148
+    },
+    "夏洛特": {
+      "path": "avatars/avatar_118.webp",
+      "mime": "image/webp",
+      "bytes": 3258
+    },
+    "马可波罗": {
+      "path": "avatars/avatar_119.webp",
+      "mime": "image/webp",
+      "bytes": 3824
+    },
+    "狂铁": {
+      "path": "avatars/avatar_120.webp",
+      "mime": "image/webp",
+      "bytes": 2664
+    },
+    "莱西奥": {
+      "path": "avatars/avatar_121.webp",
+      "mime": "image/webp",
+      "bytes": 3244
+    },
+    "米莱狄": {
+      "path": "avatars/avatar_122.webp",
+      "mime": "image/webp",
+      "bytes": 3416
+    },
+    "露娜": {
+      "path": "avatars/avatar_123.webp",
+      "mime": "image/webp",
+      "bytes": 3802
+    },
+    "亚连": {
+      "path": "avatars/avatar_124.webp",
+      "mime": "image/webp",
+      "bytes": 3108
+    },
+    "海诺": {
+      "path": "avatars/avatar_125.webp",
+      "mime": "image/webp",
+      "bytes": 3266
+    },
+    "朵莉亚": {
+      "path": "avatars/avatar_126.webp",
+      "mime": "image/webp",
+      "bytes": 3356
+    },
+    "宫本武藏": {
+      "path": "avatars/avatar_127.webp",
+      "mime": "image/webp",
+      "bytes": 3204
+    },
+    "橘右京": {
+      "path": "avatars/avatar_128.webp",
+      "mime": "image/webp",
+      "bytes": 3040
+    },
+    "娜可露露": {
+      "path": "avatars/avatar_129.webp",
+      "mime": "image/webp",
+      "bytes": 3786
+    },
+    "不知火舞": {
+      "path": "avatars/avatar_130.webp",
+      "mime": "image/webp",
+      "bytes": 2860
+    },
+    "大禹": {
+      "path": "avatars/avatar_131.webp",
+      "mime": "image/webp",
+      "bytes": 2314
+    },
+    "卢雅那": {
+      "path": "avatars/avatar_132.webp",
+      "mime": "image/webp",
+      "bytes": 2414
+    },
+    "心魔六耳": {
+      "path": "avatars/avatar_133.webp",
+      "mime": "image/webp",
+      "bytes": 2840
+    }
+  },
+  "items": {
+    "it1111": {
+      "path": "items/it1111.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2039
+    },
+    "it1112": {
+      "path": "items/it1112.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2004
+    },
+    "it1113": {
+      "path": "items/it1113.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2171
+    },
+    "it1114": {
+      "path": "items/it1114.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2259
+    },
+    "it1121": {
+      "path": "items/it1121.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2375
+    },
+    "it1122": {
+      "path": "items/it1122.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2387
+    },
+    "it1123": {
+      "path": "items/it1123.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2599
+    },
+    "it1124": {
+      "path": "items/it1124.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2138
+    },
+    "it1126": {
+      "path": "items/it1126.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2180
+    },
+    "it1132": {
+      "path": "items/it1132.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2239
+    },
+    "it1133": {
+      "path": "items/it1133.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2652
+    },
+    "it1134": {
+      "path": "items/it1134.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2630
+    },
+    "it11110": {
+      "path": "items/it11110.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1612
+    },
+    "it1129": {
+      "path": "items/it1129.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2371
+    },
+    "it1135": {
+      "path": "items/it1135.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2652
+    },
+    "it1115": {
+      "path": "items/it1115.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1713
+    },
+    "it1158": {
+      "path": "items/it1158.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1821
+    },
+    "it1136": {
+      "path": "items/it1136.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2752
+    },
+    "it1116": {
+      "path": "items/it1116.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2222
+    },
+    "it11211": {
+      "path": "items/it11211.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2063
+    },
+    "it1137": {
+      "path": "items/it1137.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2800
+    },
+    "it1154": {
+      "path": "items/it1154.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2035
+    },
+    "it1138": {
+      "path": "items/it1138.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2806
+    },
+    "it11210": {
+      "path": "items/it11210.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2696
+    },
+    "it1243": {
+      "path": "items/it1243.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2212
+    },
+    "it1235": {
+      "path": "items/it1235.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2886
+    },
+    "it1239": {
+      "path": "items/it1239.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2837
+    },
+    "it1236": {
+      "path": "items/it1236.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2982
+    },
+    "it1227": {
+      "path": "items/it1227.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2878
+    },
+    "it1237": {
+      "path": "items/it1237.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2414
+    },
+    "it1727": {
+      "path": "items/it1727.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2695
+    },
+    "it1244": {
+      "path": "items/it1244.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3008
+    },
+    "it1211": {
+      "path": "items/it1211.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2555
+    },
+    "it1214": {
+      "path": "items/it1214.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2362
+    },
+    "it1226": {
+      "path": "items/it1226.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2489
+    },
+    "it1212": {
+      "path": "items/it1212.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2172
+    },
+    "it1221": {
+      "path": "items/it1221.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2402
+    },
+    "it1231": {
+      "path": "items/it1231.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2463
+    },
+    "it1217": {
+      "path": "items/it1217.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2178
+    },
+    "it1222": {
+      "path": "items/it1222.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2616
+    },
+    "it1232": {
+      "path": "items/it1232.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2505
+    },
+    "it1218": {
+      "path": "items/it1218.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1839
+    },
+    "it1224": {
+      "path": "items/it1224.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2431
+    },
+    "it1233": {
+      "path": "items/it1233.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2840
+    },
+    "it12211": {
+      "path": "items/it12211.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2853
+    },
+    "it1240": {
+      "path": "items/it1240.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2879
+    },
+    "it1234": {
+      "path": "items/it1234.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2328
+    },
+    "it1238": {
+      "path": "items/it1238.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2903
+    },
+    "it1311": {
+      "path": "items/it1311.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2170
+    },
+    "it1317": {
+      "path": "items/it1317.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2172
+    },
+    "it1534": {
+      "path": "items/it1534.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3065
+    },
+    "it1312": {
+      "path": "items/it1312.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2492
+    },
+    "it1321": {
+      "path": "items/it1321.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2646
+    },
+    "it1331": {
+      "path": "items/it1331.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2978
+    },
+    "it1313": {
+      "path": "items/it1313.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2488
+    },
+    "it1323": {
+      "path": "items/it1323.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2452
+    },
+    "it1332": {
+      "path": "items/it1332.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2890
+    },
+    "it1324": {
+      "path": "items/it1324.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2850
+    },
+    "it1333": {
+      "path": "items/it1333.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3118
+    },
+    "it1327": {
+      "path": "items/it1327.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2782
+    },
+    "it1337": {
+      "path": "items/it1337.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3038
+    },
+    "it1328": {
+      "path": "items/it1328.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2733
+    },
+    "it1338": {
+      "path": "items/it1338.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3058
+    },
+    "it1341": {
+      "path": "items/it1341.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2688
+    },
+    "it1347": {
+      "path": "items/it1347.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2948
+    },
+    "it1349": {
+      "path": "items/it1349.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2702
+    },
+    "it13310": {
+      "path": "items/it13310.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2770
+    },
+    "it1325": {
+      "path": "items/it1325.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2534
+    },
+    "it1353": {
+      "path": "items/it1353.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2897
+    },
+    "it1345": {
+      "path": "items/it1345.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2301
+    },
+    "it1334": {
+      "path": "items/it1334.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2496
+    },
+    "it13211": {
+      "path": "items/it13211.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2207
+    },
+    "it1335": {
+      "path": "items/it1335.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2637
+    },
+    "it13212": {
+      "path": "items/it13212.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2326
+    },
+    "it1336": {
+      "path": "items/it1336.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2528
+    },
+    "it1411": {
+      "path": "items/it1411.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1978
+    },
+    "it1421": {
+      "path": "items/it1421.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2484
+    },
+    "it1422": {
+      "path": "items/it1422.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2709
+    },
+    "it1423": {
+      "path": "items/it1423.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2624
+    },
+    "it1424": {
+      "path": "items/it1424.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2409
+    },
+    "it1425": {
+      "path": "items/it1425.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2813
+    },
+    "it1426": {
+      "path": "items/it1426.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2801
+    },
+    "it1511": {
+      "path": "items/it1511.jpg",
+      "mime": "image/jpeg",
+      "bytes": 1584
+    },
+    "it1521": {
+      "path": "items/it1521.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2578
+    },
+    "it1531": {
+      "path": "items/it1531.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2856
+    },
+    "it1523": {
+      "path": "items/it1523.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2533
+    },
+    "it1533": {
+      "path": "items/it1533.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2737
+    },
+    "it1522": {
+      "path": "items/it1522.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2995
+    },
+    "it1532": {
+      "path": "items/it1532.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2923
+    },
+    "it1701": {
+      "path": "items/it1701.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2468
+    },
+    "it1714": {
+      "path": "items/it1714.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2683
+    },
+    "it1724": {
+      "path": "items/it1724.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3006
+    },
+    "it1711": {
+      "path": "items/it1711.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2768
+    },
+    "it1725": {
+      "path": "items/it1725.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2877
+    },
+    "it1753": {
+      "path": "items/it1753.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2781
+    },
+    "it1754": {
+      "path": "items/it1754.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2710
+    },
+    "it1131": {
+      "path": "items/it1131.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2436
+    },
+    "it1127": {
+      "path": "items/it1127.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2456
+    },
+    "it1128": {
+      "path": "items/it1128.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2373
+    },
+    "it11311": {
+      "path": "items/it11311.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2474
+    },
+    "it1141": {
+      "path": "items/it1141.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2107
+    },
+    "it1125": {
+      "path": "items/it1125.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2978
+    },
+    "it1155": {
+      "path": "items/it1155.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2313
+    },
+    "it1728": {
+      "path": "items/it1728.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2226
+    },
+    "it1350": {
+      "path": "items/it1350.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2873
+    },
+    "it1351": {
+      "path": "items/it1351.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2822
+    },
+    "it1156": {
+      "path": "items/it1156.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2696
+    },
+    "it1157": {
+      "path": "items/it1157.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2509
+    },
+    "it1242": {
+      "path": "items/it1242.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3119
+    },
+    "it1159": {
+      "path": "items/it1159.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2322
+    },
+    "it1721": {
+      "path": "items/it1721.jpg",
+      "mime": "image/jpeg",
+      "bytes": 3126
+    },
+    "it1747": {
+      "path": "items/it1747.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2971
+    },
+    "it1723": {
+      "path": "items/it1723.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2899
+    },
+    "it1737": {
+      "path": "items/it1737.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2762
+    },
+    "it1161": {
+      "path": "items/it1161.jpg",
+      "mime": "image/jpeg",
+      "bytes": 2109
+    }
+  },
+  "ui": {
+    "gender_female_decor.svg": {
+      "path": "ui/gender_female_decor.svg",
+      "mime": "image/svg+xml",
+      "bytes": 775
+    },
+    "gender_male_decor.svg": {
+      "path": "ui/gender_male_decor.svg",
+      "mime": "image/svg+xml",
+      "bytes": 820
+    }
+  }
+}
